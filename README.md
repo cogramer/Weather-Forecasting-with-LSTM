@@ -1,6 +1,6 @@
 # Weather Forecasting with LSTM
 
-This is a multi-feature time series forecasting project using LSTM (Long Short-Term Memory) networks for weather prediction.
+This is a multi-feature time series forecasting project using Gap-Aware LSTM (Long Short-Term Memory) pipelines for weather prediction.
 
 The models predicts temperature using historical meteorological variables and cyclical time encoding, trained on OpenWeatherMap forecast archives.
 
