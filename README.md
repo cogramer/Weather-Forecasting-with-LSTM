@@ -2,7 +2,7 @@
 
 This is a multi-feature time series forecasting project using Gap-Aware LSTM (Long Short-Term Memory) pipelines for weather prediction.
 
-The models predicts temperature using historical meteorological variables and cyclical time encoding, trained on OpenWeatherMap forecast archives.
+The models predicts temperature using historical meteorological variables and cyclical time encoding, trained on OpenWeatherMap forecast archives. The source code for specific models can be found in the Releases section.
 
 ![docs\pictures\logo_white.png](https://github.com/cogramer/Cogramer-repo-for-Machine-Learning/blob/main/docs/pictures/logo_white.png?raw=true)
 
